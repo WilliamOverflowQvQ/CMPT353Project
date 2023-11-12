@@ -1,6 +1,5 @@
 # CMPT353 Final Project
 ## Team Members
-
 - Boyu Zhang (bza52)
 - Sibei Zhou (sibeiz)
 - William Zhou (zza198)
@@ -12,6 +11,8 @@
 ...
 
 ## Required librarys
+    python >= 3.10
+
     scipy
     matplotlib
     pandas
@@ -19,11 +20,10 @@
     sklearn
     statsmodels
 
-    python >= 3.10
 
 ### Or use the following command:
   pip3 install scipy matplotlib pandas numpy sklearn statsmodels
 
 
-## Usage
+## How to use
 ...
